@@ -47,7 +47,7 @@ public class HDFSClientKerberosTest {
 	
 	@Test
 	public void testLoginWithKeytab() throws NoSuchAlgorithmException, URISyntaxException, IOException {
-		String keytabPath = getClass().getClassLoader().getResource("svcmuleqa.keytab").getPath();
+		String keytabPath = getClass().getClassLoader().getResource("service_KEY.keytab").getPath();
 		
 		FileSystem fs = client.hadoopConnectionWithKeytab(keytabPath, "svcmuleqa@EXAMPLE.NET");
 		list(fs);
