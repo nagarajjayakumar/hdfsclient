@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6020de10-c03e-43da-a541-10042e5769f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hortonworks/amw/HDFSClient.java" afterPath="$PROJECT_DIR$/src/main/java/com/hortonworks/amw/HDFSClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hortonworks/amw/HDFSClientKerberos.java" afterPath="$PROJECT_DIR$/src/main/java/com/hortonworks/amw/HDFSClientKerberos.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/hadoop/jaas.conf" afterPath="$PROJECT_DIR$/src/main/resources/hadoop/jaas.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/hadoop/krb5.conf" afterPath="$PROJECT_DIR$/src/main/resources/hadoop/krb5.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/svcmuleqa.keytab" afterPath="$PROJECT_DIR$/src/main/resources/svcmuleqa.keytab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/hortonworks/amw/HDFSClientKerberosTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/hortonworks/amw/HDFSClientKerberosTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/hortonworks/amw/HadoopClient.java" afterPath="$PROJECT_DIR$/src/test/java/com/hortonworks/amw/HadoopClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/hadoop.properties" afterPath="$PROJECT_DIR$/src/test/resources/hadoop.properties" />
-    </list>
+    <list default="true" id="6020de10-c03e-43da-a541-10042e5769f2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -417,12 +401,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521377428744</updated>
-      <workItem from="1521377431953" duration="638000" />
+      <workItem from="1521377431953" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="638000" />
+    <option name="totallyTimeSpent" value="668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="853" extended-state="0" />
